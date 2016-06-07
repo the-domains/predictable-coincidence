@@ -1,14 +1,14 @@
-layout_spectrum: 0.1902607416268438
-typography_spectrum: 0.2593670089263469
+layout_spectrum: 0.31377451471053064
+typography_spectrum: 0.30192525777965784
 color:
-  brandStrength: 0.19843058986589313
-  lightness: 0.6793948174454272
-  saturation: 0.3178984101396054
-  rhythmicContrast: 0.6778506634291261
+  brandStrength: 0.5308499892707914
+  lightness: 0.0924286029767245
+  saturation: 0.5234562279656529
+  rhythmicContrast: 0.8786674276925623
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
 name: predictable coincidence
